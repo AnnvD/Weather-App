@@ -1,0 +1,125 @@
+body {
+  background: rgba(29, 173, 155);
+  color: #9bf4d5;
+}
+
+a {
+  color: #346357;
+  text-decoration: none;
+}
+
+h1 {
+  color: #346357;
+}
+
+.container {
+  background: rgba(252, 255, 193);
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px rgba(52, 99, 87, 0.6);
+  display: block;
+  margin: 30px auto;
+  max-width: 600px;
+  padding: 25px 50px 10px 50px;
+  text-align: center;
+}
+
+.search-bar {
+  display: inline-block;
+  width: 0 auto;
+}
+
+.searchBtn {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.currentBtn {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.date {
+  color: #346357;
+  background: #9bf4d5;
+  border: 2px solid #346357;
+  border-radius: 10px;
+  font-family: "Pompiere", cursive;
+  line-height: 40px;
+  font-size: 20px;
+  font-weight: 900;
+  margin: 10px auto;
+}
+
+.current-info {
+  margin: 20px auto;
+  font-family: "Pompiere", cursive;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.current-humid,
+.current-wind {
+  color: #346357;
+  background: #9bf4d5;
+  border: 2px solid #346357;
+  border-radius: 10px;
+  padding-top: 10px;
+}
+
+.current-weather {
+  display: inline-block;
+  color: #346357;
+  background: #9bf4d5;
+  border: 2px solid #346357;
+  border-radius: 10px;
+  font-family: "Pompiere", cursive;
+  padding: 20px 5px;
+}
+
+.temperature {
+  font-size: 80px;
+  font-weight: 900;
+}
+.units {
+  font-size: 32px;
+  font-weight: 900;
+}
+.cloud {
+  font-size: 120px;
+}
+.description {
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.sunrise-sunset {
+  margin: 20px auto;
+  font-family: "Pompiere", cursive;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.sunrise,
+.sunset {
+  color: #346357;
+  background: #9bf4d5;
+  border: 2px solid #346357;
+  border-radius: 10px;
+  padding-top: 8px;
+}
+
+.next-week {
+  margin-bottom: 10px;
+  font-family: "Pompiere", cursive;
+  font-size: 20px;
+  font-weight: 900;
+}
+
+.info {
+  color: #346357;
+  background: #9bf4d5;
+  border: 2px solid #346357;
+  border-radius: 10px;
+  margin: 0px auto;
+  padding-top: 5px;
+}
