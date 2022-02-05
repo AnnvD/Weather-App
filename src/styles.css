@@ -47,14 +47,14 @@ a#weather-app {
 }
 
 .date {
-  color: #346357;
   background: #9bf4d5;
   border: 2px solid #346357;
   border-radius: 10px;
+  color: #346357;
   font-family: "Pompiere", cursive;
-  line-height: 40px;
   font-size: 20px;
   font-weight: 900;
+  line-height: 40px;
   margin: 10px auto;
 }
 
@@ -67,19 +67,19 @@ a#weather-app {
 
 .current-humid,
 .current-wind {
-  color: #346357;
   background: #9bf4d5;
   border: 2px solid #346357;
   border-radius: 10px;
+  color: #346357;
   padding-top: 10px;
 }
 
 .current-weather {
-  display: inline-block;
-  color: #346357;
   background: #9bf4d5;
   border: 2px solid #346357;
   border-radius: 10px;
+  color: #346357;
+  display: inline-block;
   font-family: "Pompiere", cursive;
   padding: 20px 5px;
 }
@@ -109,10 +109,10 @@ a#weather-app {
 
 .sunrise,
 .sunset {
-  color: #346357;
   background: #9bf4d5;
   border: 2px solid #346357;
   border-radius: 10px;
+  color: #346357;
   padding-top: 8px;
 }
 
@@ -124,17 +124,17 @@ a#weather-app {
 }
 
 .info {
-  color: #346357;
   background: #9bf4d5;
   border: 2px solid #346357;
   border-radius: 10px;
+  color: #346357;
   margin: 0px auto;
   padding-top: 5px;
 }
 
 p {
-  font-family: "Pompiere", cursive;
   color: #346357;
+  font-family: "Pompiere", cursive;
   font-size: 20px;
   font-weight: 900;
 }
