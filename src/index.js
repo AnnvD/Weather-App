@@ -42,7 +42,6 @@ function formatDate(date) {
 }
 
 function dipslayWeatherCondition(response) {
-  console.log(response);
   document.querySelector("#city").innerHTML = response.data.name;
   document.querySelector("#humidity").innerHTML = response.data.main.humidity;
   document.querySelector("#wind").innerHTML = Math.round(
